@@ -7,6 +7,7 @@ Pre-requisites :
 2.DynamoDB table :
   - Primary partition key 	meetingroom (String)
   - Primary sort key	timestamp (String)
+3. 3D printer
 
 
 
